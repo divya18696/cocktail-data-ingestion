@@ -1,6 +1,6 @@
-Cocktail Data Ingestion
+##Cocktail Data Ingestion
 
-Overview
+###Overview
 Understanding the API:
 Started by analyzing the data returned by the API to figure out what’s important and how to organize it in a way that makes sense for easy use.
 Deciding on Data Format:
