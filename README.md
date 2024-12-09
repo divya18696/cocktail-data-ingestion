@@ -40,7 +40,7 @@ This project demonstrates a way to ingest, transform, and save the cocktail data
 #### Install Required Libraries
 Ensure Python 3.x is installed.
 
-#### Install dependencies:
+#### Install dependencies
 You need to install the required dependencies using **pip**:
 ```bash
 pip install requests
