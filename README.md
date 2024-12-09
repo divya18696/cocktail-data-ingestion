@@ -1,6 +1,6 @@
-# Cocktail Data Ingestion
+## Cocktail Data Ingestion
 
-## Overview
+### Overview
 This program fetches cocktail data from TheCocktailDB API, processes it into a standard format, and saves it in a JSON file. It is designed to handle unit conversions, normalize data and log the entire process for debugging
 
 ### Understanding the API:
@@ -32,5 +32,5 @@ Batch processing was a clear choice due to the following reasons:
 3. Once the processing is done, it is saved into a single JSON file.
 This approach keeps things straightforward, efficient, and easy to maintain, while avoiding unnecessary complexity.
 
-## Conclusion
-This project demonstrates an efficient way to ingest, clean, and save cocktail data. By opting for batch processing and using a simple JSON file, we have ensured that the solution is both scalable and easy to understand.
+### Conclusion
+This project demonstrates a way to ingest, clean, and save cocktail data.
