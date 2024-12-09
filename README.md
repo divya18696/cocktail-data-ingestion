@@ -34,3 +34,13 @@ This approach keeps things straightforward, efficient, and easy to maintain, whi
 
 ### Conclusion
 This project demonstrates a way to ingest, transform, and save cocktail data.
+
+### How to Run the Code
+
+#### Install Required Libraries:
+Ensure Python 3.7+ is installed.
+
+#### Install dependencies:
+You need to install the required dependencies using **pip**:
+```bash
+pip install requests
